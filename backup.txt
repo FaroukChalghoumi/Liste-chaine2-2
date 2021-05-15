@@ -1,0 +1,6 @@
+bb	bb		0
+cc	cc		0
+rr	rr		0
+tt	tt		0
+aa	aa		0
+ee	ee		1
